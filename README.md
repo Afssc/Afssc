@@ -26,8 +26,7 @@ class Afssc(object):
     def run_away(self):
         exit()
         
-if __name__ == "__main__":
-    me=Afssc()
-    me.say_hello()
-    me.run_away()
+me=Afssc()
+me.say_hello()
+me.run_away()
 ```
