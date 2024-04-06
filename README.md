@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Afssc/Afssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+正在学习markdown
+
+```python
+class Afssc(object):
+    def __init__(self):
+        self._name = "Afssc"
+    
+    def say_hello(self):
+        print("Hi,there! This is Afssc")
+
+    def run_away(self):
+        exit()
+        
+if __name__ == "__main__":
+    me=Afssc()
+    me.say_hello()
+    me.run_away()
+```
