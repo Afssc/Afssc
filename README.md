@@ -16,18 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ```python
-class Afssc(object):
+class Afssc(person):
     def __init__(self):
         self._name = "Afssc"
     
-    def say_hello(self):
-        print("Hi,there! This is Afssc")
-
+    def lie_flat(self):
+        time.sleep(114514)
+    
     def run_away(self):
         exit()
-        
-if __name__ == "__main__":
-    me=Afssc()
-    me.say_hello()
-    me.run_away()
 ```
