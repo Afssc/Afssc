@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-正在学习markdown
-
 ```python
 class Afssc(object):
     def __init__(self):
